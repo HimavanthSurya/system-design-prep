@@ -1,0 +1,224 @@
+# Topic: [ENTER YOUR TOPIC HERE]
+
+Create comprehensive **interview-preparation notes in Markdown (.md) format** for the topic specified above.
+
+My goal is to understand the topic deeply enough to confidently answer **beginner, intermediate, and advanced interview questions**.
+
+## 1. Topic Overview
+
+* What is the topic?
+* Why is it important?
+* What problem does it solve?
+* Where is it used in real-world projects?
+* Explain it first in very simple terms.
+
+## 2. Core Concepts
+
+Cover all important concepts and subtopics.
+
+For each concept, explain:
+
+* Definition
+* Purpose
+* Why it exists
+* How it works
+* Key points to remember
+* Simple example
+* Real-world/project example
+
+Clearly categorize concepts as:
+
+* **Must Know**
+* **Good to Know**
+* **Advanced**
+
+## 3. How It Works Internally
+
+Explain the internal working step by step.
+
+Cover:
+
+* Architecture
+* Components
+* Execution flow
+* Internal mechanisms
+* What happens behind the scenes
+* Important implementation details
+
+Use **Mermaid diagrams** where they improve understanding.
+
+## 4. Important Terminology
+
+| Term | Meaning | Example |
+| ---- | ------- | ------- |
+|      |         |         |
+
+Include terminology commonly expected in technical interviews.
+
+## 5. Important Comparisons
+
+Explain concepts that are commonly confused or compared.
+
+| Concept A | Concept B | Key Difference | When to Use |
+| --------- | --------- | -------------- | ----------- |
+|           |           |                |             |
+
+Include practical examples and trade-offs.
+
+## 6. Practical Examples
+
+Provide realistic software-development examples.
+
+For each example, explain:
+
+1. The problem
+2. The approach
+3. The solution
+4. Why the approach was chosen
+5. Alternatives
+6. Trade-offs
+
+If code is relevant, provide clean code examples with explanations.
+
+## 7. Interview Questions
+
+### Beginner Questions
+
+Provide common beginner-level questions with interview-ready answers.
+
+### Intermediate Questions
+
+Provide questions that test practical understanding.
+
+### Advanced Questions
+
+Provide difficult questions that test deep knowledge and internal understanding.
+
+For every question include:
+
+* **Question**
+* **Short Interview Answer**
+* **Detailed Explanation**
+* **Example**, if applicable
+* **Possible Follow-up Question**
+
+## 8. Tricky Interview Questions
+
+Include questions that expose shallow understanding, such as:
+
+* Why does this happen?
+* What happens internally?
+* What if something goes wrong?
+* Why choose one approach over another?
+* What are the limitations?
+* What happens in edge cases?
+* What are the hidden trade-offs?
+
+Provide strong and concise interview-ready answers.
+
+## 9. Scenario-Based Questions
+
+Create realistic interview scenarios based on the topic.
+
+For each scenario explain:
+
+1. How to approach it
+2. Why the solution works
+3. Trade-offs
+4. Alternatives
+5. What the interviewer is testing
+
+## 10. Real-World Usage
+
+Explain how the topic is actually used in production systems.
+
+Cover:
+
+* Common use cases
+* Practical examples
+* When to use it
+* When NOT to use it
+* Design considerations
+* Scalability
+* Reliability
+* Maintainability
+
+## 11. Performance & Optimization
+
+Where applicable, cover:
+
+* Time complexity
+* Space complexity
+* Performance considerations
+* Bottlenecks
+* Scalability
+* Optimization techniques
+
+## 12. Common Mistakes
+
+Explain:
+
+* Common conceptual misunderstandings
+* Common implementation mistakes
+* Incorrect assumptions
+* Interview mistakes
+* Things candidates frequently forget
+
+## 13. Best Practices
+
+List the most important best practices and explain **why** each one matters.
+
+## 14. Interview Cheat Sheet
+
+Create a concise revision section containing:
+
+* Key definitions
+* Core concepts
+* Important differences
+* Important rules/formulas
+* Common questions
+* Must-remember points
+
+## 15. Rapid-Fire Interview Questions
+
+Create **20 short questions** that I should be able to answer in **30–60 seconds** each.
+
+Provide the ideal answer immediately after each question.
+
+## 16. Mock Interview
+
+Act as a technical interviewer.
+
+Ask me **10 questions one at a time**, starting from basic and gradually increasing in difficulty.
+
+After I answer each question:
+
+* Rate my answer from **1–10**
+* Tell me what I got right
+* Tell me what I missed
+* Correct any mistakes
+* Give me an ideal interview answer
+* Ask the next question
+
+Do not reveal the answer before I attempt the question.
+
+## 17. Final Interview Revision
+
+End with a section containing the **20–30 most important things I must remember before an interview**.
+
+## Markdown Requirements
+
+* Return the notes entirely in **Markdown (.md) format**.
+* Use proper `#`, `##`, and `###` headings.
+* Use bullet points and numbered lists.
+* Use tables where useful.
+* Use code blocks with the appropriate language.
+* Use **bold** for important terms.
+* Use `> ` for interview tips.
+* Use Mermaid diagrams when useful.
+* Keep explanations clear, practical, and interview-focused.
+* Avoid unnecessary textbook-style content.
+* Prioritize concepts frequently asked in technical interviews.
+* Focus on **understanding, reasoning, practical usage, and how to explain the topic in an interview**.
+* Do not repeatedly ask me for the topic; use the topic provided at the top throughout the entire response.
+* Provide complete notes in a single .md format block
